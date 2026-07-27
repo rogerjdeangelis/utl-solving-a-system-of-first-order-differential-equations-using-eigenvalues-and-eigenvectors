@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_data_null_eigen_decomposition",
+  "source_file": "utl-solving-a-system-of-first-order-differential-equations-using-eigenvalues-and-eigenvectors.sas",
+  "source_blob_sha": "5025f90cae5f0b9f83d16a526e4b1af6aa2b9ae7",
+  "source_commit": "bd9c85c1e1dc29eb1d6ca003de93c603ccb9de07",
+  "notes": "Author's DATA _null_ step (lines ~358-383) computing the 2x2 symmetric-matrix eigenvalues (e1,e2) and non-normalized + normalized eigenvectors in closed form from sqrt(a**2-2ad+4b**2+d**2). Self-contained: all inputs inline (a=5 b=2 c=2 d=5), no external data/libnames/paths. Logic verbatim; only obvious PUT-label typos ('eogennvectors'->'eigenvectors') corrected in the descriptive output string. Output matches the author's own documented values (e1=3 e2=7, eigenvectors, normalized 0.7071...)."
+}
