@@ -1,0 +1,19 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA _null_
+
+Eigenvalues
+e1=3
+e2=7
+
+Non-Normal eigenvectors
+v11=1 v21=-1
+v12=1 v22=1
+
+Normalized Eigenvectors
+norm11=0.7071067811865475 norm21=-0.7071067811865475
+norm12=0.7071067811865475 norm22=0.7071067811865475
+
+NOTE: Wrote _null_ (0 rows, 0 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
